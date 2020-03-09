@@ -5,7 +5,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      welcome to reactjs CICD part-6
+      welcome to reactjs CICD part-7
     </div>
   );
 }
